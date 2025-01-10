@@ -3,16 +3,6 @@
 
 Hello! I'm Pushpak Rai, a passionate Software Developer with a focus on building scalable, efficient applications. I specialize in web-based solutions using technologies like Next.js, React.js, and MongoDB. I am continuously expanding my skills in AWS and Data Science to stay ahead in the rapidly evolving tech world. I'm committed to writing clean, maintainable code and am always looking for opportunities to improve my technical capabilities.
 
-🌱 **What I'm Currently Learning**:
-
-- Advancing my expertise in **Next.js**, **React.js**, **MongoDB**, and cloud solutions using **AWS**.
-- Exploring **Data Science** and Machine Learning algorithms to create intelligent systems.
-
-💻 **My Passion**: I am passionate about solving problems through code, especially in full-stack development. My interest spans both frontend and backend technologies, always striving to create intuitive applications that enhance user experiences.
-
-🌍 **About Me**:
-🌍 About Me: Based in Pune, India, I bring a global perspective to my projects. I'm always learning, adapting, and improving my skills to deliver innovative, impactful solutions.
-
 ---
 
 ### 👨‍💻 **My Work & Projects**:
@@ -21,6 +11,7 @@ Check out my **[GitHub](https://github.com/pushpakrai)** to see my latest projec
 🔗 **Let's Connect**:
 - GitHub: [https://github.com/pushpakrai](https://github.com/pushpakrai)
 - Email: [pushpakrai7@gmail.com](mailto:pushpakrai7@gmail.com)
+- LinkedIn: [https://in.linkedin.com/in/pushpak-rai-0ab3a3200](https://in.linkedin.com/in/pushpak-rai-0ab3a3200)
 
 ---
 
