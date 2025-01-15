@@ -5,9 +5,6 @@ Hello! I'm Pushpak Rai, a passionate Software Developer with a focus on building
 
 ---
 
-### 👨‍💻 **My Work & Projects**:
-Check out my **[GitHub](https://github.com/pushpakrai)** to see my latest projects and contributions to the open-source community. I'm always exploring new technologies and pushing my limits to deliver impactful work.
-
 🔗 **Let's Connect**:
 - GitHub: [https://github.com/pushpakrai](https://github.com/pushpakrai)
 - Email: [pushpakrai7@gmail.com](mailto:pushpakrai7@gmail.com)
